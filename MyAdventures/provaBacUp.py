@@ -3,7 +3,6 @@ from mcpi import block
 import time
 import random
 import inspect
-import subprocess
 
 #Obrir servidor
 # Ruta al archivo .bat
@@ -25,7 +24,7 @@ insultos = [
 ]
 
 # Función para colocar TNT
-def tnt():
+def tnt_bot():
     # Obtener la posición del jugador
     pos = mc.player.getTilePos()
 
@@ -41,7 +40,7 @@ def tnt():
     mc.postToChat("¡TNT activada!")
 
 # Función para insultar
-def insultar():
+def insult_bot():
     insulto = random.choice(insultos)
     mc.postToChat(f"<Bot>: {insulto}")
 
@@ -57,6 +56,7 @@ def ejecutar_comando(comando):
     """
     Ejecuta el comando correspondiente de manera reflexiva.
     """
+    mc.postToChat(comando)
     # Comprobamos si el comando existe en las funciones disponibles
     comando_func = globals().get(comando)
 
