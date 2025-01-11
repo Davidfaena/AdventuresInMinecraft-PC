@@ -1,5 +1,5 @@
 from mcpi.minecraft import Minecraft
-from MyAdventures.FileMsg.MsgParser import listener
+from MyAdventures.FileMsg.MsgParser import listener, filtrar_mensajes
 
 #Server initialization
 # Path to .bat file
@@ -16,4 +16,4 @@ mc = Minecraft.create()
 mc.postToChat("¡Active bot! write 'bot ajuda' to see all active bots.")
 
 # Iniciar la escucha de comandos
-listener(mc)
+filtrar_mensajes(mc)

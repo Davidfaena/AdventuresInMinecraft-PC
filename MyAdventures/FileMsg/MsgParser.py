@@ -13,6 +13,14 @@ def listener(mc):
         # Reducir la carga del bucle
         time.sleep(0.1)
 
+# Función para filtrar y procesar mensajes
+def filtrar_mensajes(mc):
+
+    while True:
+        mensajes = mc.events.pollChatPosts()
+        list(map(lambda mensaje: message_Parser(mc, mensaje), mensajes))
+        time.sleep(0.1)
+
 # Aplicar programación funcional: Hacer que los mensajes de chat sean procesados
 def message_Parser(mc, msg):
     """
@@ -25,7 +33,3 @@ def message_Parser(mc, msg):
         comand = content[4:]
         ejecutar_comando(mc, comand)
 
-# Función para filtrar y procesar mensajes
-def filtrar_mensajes(mc):
-    mensajes = mc.events.pollChatPosts()
-    list(map(message_Parser, mensajes))

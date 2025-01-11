@@ -1,6 +1,7 @@
 # Function that display help msg
 def main(mc):
-    mc.postToChat("<Bot>: Comandos disponibles:")
-    mc.postToChat("  - bot tnt: Coloca y activa TNT cerca del jugador.")
-    mc.postToChat("  - bot insultame: Recibe un insulto del bot.")
-    mc.postToChat("  - bot ayuda: Muestra esta lista de comandos.")
+    mc.postToChat("<Bot>: Avaliable commads:")
+    mc.postToChat("  - bot tnt: Place and activate a tnt near the player.")
+    mc.postToChat("  - bot insultame: Gets a random slur from the bot.")
+    mc.postToChat("  - bot tortuga: Draws a square using the internal class turtle.")
+    mc.postToChat("  - bot ayuda: Show this list of commands.")

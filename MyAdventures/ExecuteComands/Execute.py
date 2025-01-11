@@ -34,11 +34,10 @@ def ejecutar_comando(mc, comand):
         mc.postToChat(f"<Bot>: Error al ejecutar {bot}: {str(e)}")
 
     return None
+
+
 # Función de dispatcher para ejecutar comandos de manera reflexiva
 def ejecutar_comando2(mc, comand):
-    """
-    Ejecuta el comando correspondiente de manera reflexiva.
-    """
 
     bot = SelectBot(mc, comand)
 

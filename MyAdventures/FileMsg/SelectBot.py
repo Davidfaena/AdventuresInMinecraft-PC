@@ -1,12 +1,18 @@
+def SelectBot(mc, comand):
 
-def SelectBot(mc, comando):
+    # Dictionary that contains the names and the bots
+    comands = {
+        "tnt": "TNTBot",
+        "insultame": "InsultBot",
+        "ajuda": "AjudaBot",
+        "tortuga": "TortugaBot"
+    }
 
-    match comando:
-        case "tnt":
-            return "TNTBot"
-        case "insultame":
-            return "InsultBot"
-        case "ajuda":
-            return "AjudaBot"
-        case _:
-            mc.postToChat(f"<Bot>: Comand unknown: {comando}")
+    # Search for the correct bot
+    bot = comands.get(comand)
+
+    if bot:
+        return bot
+    else:
+        mc.postToChat(f"<Bot>: Comand unknown: {comand}")
+        return None

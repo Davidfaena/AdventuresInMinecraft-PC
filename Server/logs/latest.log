@@ -1,201 +1,103 @@
-[00:11:50] [Server thread/INFO]: Starting minecraft server version 1.12
-[00:11:50] [Server thread/INFO]: Loading properties
-[00:11:50] [Server thread/INFO]: Default game type: CREATIVE
-[00:11:50] [Server thread/INFO]: Generating keypair
-[00:11:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:11:50] [Server thread/INFO]: Using default channel type
-[00:11:50] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
-[00:11:51] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
-[00:11:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:11:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:11:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:11:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:11:51] [Server thread/INFO]: Preparing level "world"
-[00:11:51] [Server thread/INFO]: Preparing start region for level 0 (Seed: -9035584645726326890)
-[00:11:52] [Server thread/INFO]: Preparing start region for level 1 (Seed: -9035584645726326890)
-[00:11:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: -9035584645726326890)
-[00:11:52] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
-[00:11:52] [Server thread/INFO]: [RaspberryJuice] Using port 4711
-[00:11:52] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
-[00:11:52] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
-[00:11:52] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[00:11:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:11:52] [Server thread/INFO]: Done (1,726s)! For help, type "help" or "?"
-[00:11:57] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
-[00:11:57] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51945.
-[00:11:57] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
-[00:11:57] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:12:00] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:51946] logged in with entity id 36 at ([world]-306.0395691264394, 72.18187038724776, 76.11348467272087)
-[00:12:07] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
-[00:12:07] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
-[00:12:13] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:12:13] [Server thread/INFO]: tnt[m
-[00:12:13] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:13:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51945.
-[00:18:24] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51973.
-[00:18:24] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
-[00:18:24] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
-[00:18:24] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:18:34] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:18:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51973.
-[00:19:14] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51974.
-[00:19:14] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
-[00:19:14] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
-[00:19:14] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:19:18] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:19:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51974.
-[00:19:49] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51975.
-[00:19:49] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
-[00:19:49] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
-[00:19:49] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:19:53] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:19:54] [Server thread/INFO]: TNTBot[m
-[00:19:54] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:20:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51975.
-[00:20:20] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51976.
-[00:20:20] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
-[00:20:20] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
-[00:20:20] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:20:24] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:20:24] [Server thread/INFO]: TNTBot[m
-[00:20:24] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:21:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51976.
-[00:21:10] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51981.
-[00:21:10] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
-[00:21:10] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
-[00:21:10] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:21:15] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:21:15] [Server thread/INFO]: None[m
-[00:21:15] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:21:34] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt_bot[m
-[00:21:34] [Server thread/INFO]: <function tnt_bot at 0x000001A9CD025510>[m
-[00:21:34] [Server thread/INFO]: ­TNT colocada![m
-[00:21:36] [Server thread/INFO]: ­TNT activada![m
-[00:22:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51981.
-[00:22:16] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51983.
-[00:22:16] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
-[00:22:16] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
-[00:22:16] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:22:23] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
-[00:22:23] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
-[00:22:26] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:22:26] [Server thread/INFO]: tnt[m
-[00:22:26] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:23:03] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt_bot[m
-[00:23:04] [Server thread/INFO]: tnt_bot[m
-[00:23:04] [Server thread/INFO]: ­TNT colocada![m
-[00:23:06] [Server thread/INFO]: ­TNT activada![m
-[00:23:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51983.
-[00:23:45] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51986.
-[00:23:45] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
-[00:23:45] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
-[00:23:45] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:23:48] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt_bot[m
-[00:23:48] [Server thread/INFO]: tnt_bot[m
-[00:23:48] [Server thread/INFO]: ­TNT colocada![m
-[00:23:50] [Server thread/INFO]: ­TNT activada![m
-[00:23:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51986.
-[00:23:59] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51988.
-[00:23:59] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
-[00:23:59] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
-[00:23:59] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:24:04] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt_bot[m
-[00:24:04] [Server thread/INFO]: <Bot>: Comando desconocido: tnt_bot[m
-[00:24:04] [Server thread/INFO]: <Bot>: Comando desconocido: tnt_bot[m
-[00:24:09] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
-[00:24:09] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:24:15] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
-[00:24:15] [Server thread/INFO]: David_LluisVidal left the game
-[00:24:17] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:51990] logged in with entity id 84 at ([world]-310.9434389723538, 73.67693640669474, 73.37741599744861)
-[00:24:22] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:24:22] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:25:00] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51988.
-[00:25:02] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51991.
-[00:25:02] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
-[00:25:02] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
-[00:25:02] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:25:06] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:25:06] [Server thread/INFO]: None[m
-[00:25:06] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:30:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51991.
-[00:31:33] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52014.
-[00:31:33] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
-[00:31:33] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
-[00:31:33] [Server thread/INFO]: ­Bot activado! Escribe 'bot ayuda' para ver los comandos disponibles.[m
-[00:31:44] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
-[00:31:44] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
-[00:31:51] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:31:51] [Server thread/INFO]: None[m
-[00:31:51] [Server thread/INFO]: <Bot>: Comando desconocido: tnt[m
-[00:35:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52014.
-[00:47:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52064.
-[00:47:01] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
-[00:47:01] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
-[00:47:01] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:47:10] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
-[00:47:10] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
-[00:47:14] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:47:14] [Server thread/INFO]: None[m
-[00:47:14] [Server thread/INFO]: <Bot>: Comand unknown: tnt[m
-[00:47:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52064.
-[00:47:51] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52067.
-[00:47:51] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
-[00:47:51] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
-[00:47:51] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:48:00] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:48:00] [Server thread/INFO]: <Bot>: M¢dulo no encontrado: TNTBot.py.[m
-[00:48:12] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:48:12] [Server thread/INFO]: <Bot>: M¢dulo no encontrado: TNTBot.py.[m
-[00:48:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52067.
-[00:48:41] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52068.
-[00:48:41] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
-[00:48:41] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
-[00:48:41] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:48:46] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:48:46] [Server thread/INFO]: <Bot>: M¢dulo no encontrado: tnt_bot.[m
-[00:50:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52068.
-[00:50:04] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52070.
-[00:50:04] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
-[00:50:04] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
-[00:50:04] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:50:10] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:50:10] [Server thread/INFO]: <Bot>: M¢dulo no encontrado: tnt_bot.[m
-[00:50:59] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52070.
-[00:51:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52074.
-[00:51:01] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
-[00:51:01] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
-[00:51:01] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:51:04] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
-[00:51:04] [Server thread/INFO]: Ejecutando comando: TNTBot[m
-[00:51:04] [Server thread/INFO]: <Bot>: Error al ejecutar TNTBot: main() missing 1 required positional argument: 'mc'[m
-[00:52:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52074.
-[00:52:17] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52084.
-[00:52:17] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
-[00:52:17] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
-[00:52:17] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:52:21] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
-[00:52:21] [Server thread/INFO]: David_LluisVidal left the game
-[00:52:23] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:52086] logged in with entity id 97 at ([world]-310.9434389723538, 73.67693640669474, 73.37741599744861)
-[00:52:28] [Netty Server IO #5/INFO]: <David_LluisVidal> bot tnt[m
-[00:52:28] [Server thread/INFO]: Ejecutando comando: TNTBot[m
-[00:52:28] [Server thread/INFO]: ­TNT placed![m
-[00:52:30] [Server thread/INFO]: ­TNT activated![m
-[00:52:41] [Netty Server IO #5/INFO]: <David_LluisVidal> bot ajuda[m
-[00:52:41] [Server thread/INFO]: <Bot>: M¢dulo no encontrado: AjudaBot.py.[m
-[00:53:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52084.
-[00:53:11] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52087.
-[00:53:11] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
-[00:53:11] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
-[00:53:11] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[00:53:19] [Netty Server IO #5/INFO]: <David_LluisVidal> bot ajuda[m
-[00:53:20] [Server thread/INFO]: Ejecutando comando: AjudaBot[m
-[00:53:20] [Server thread/INFO]: <Bot>: Comandos disponibles:[m
-[00:53:20] [Server thread/INFO]:   - bot tnt: Coloca y activa TNT cerca del jugador.[m
-[00:53:20] [Server thread/INFO]:   - bot insultame: Recibe un insulto del bot.[m
-[00:53:20] [Server thread/INFO]:   - bot ayuda: Muestra esta lista de comandos.[m
-[00:53:30] [Netty Server IO #5/INFO]: <David_LluisVidal> bot insultame[m
-[00:53:30] [Server thread/INFO]: Ejecutando comando: InsultBot[m
-[00:53:30] [Server thread/INFO]: <Bot>: ­Eres m s lento que un creeper cansado![m
-[00:54:49] [Server thread/INFO]: David_LluisVidal lost connection: Internal Exception: java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
-[00:54:50] [Server thread/INFO]: David_LluisVidal left the game
-[00:54:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52087.
+[23:39:26] [Server thread/INFO]: Starting minecraft server version 1.12
+[23:39:26] [Server thread/INFO]: Loading properties
+[23:39:26] [Server thread/INFO]: Default game type: CREATIVE
+[23:39:26] [Server thread/INFO]: Generating keypair
+[23:39:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:39:26] [Server thread/INFO]: Using default channel type
+[23:39:27] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[23:39:27] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[23:39:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:39:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:39:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:39:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:39:27] [Server thread/INFO]: Preparing level "world"
+[23:39:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: -9035584645726326890)
+[23:39:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: -9035584645726326890)
+[23:39:29] [Server thread/INFO]: Preparing start region for level 2 (Seed: -9035584645726326890)
+[23:39:29] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[23:39:29] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[23:39:29] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[23:39:29] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[23:39:29] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[23:39:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:39:29] [Server thread/INFO]: Done (1,770s)! For help, type "help" or "?"
+[23:39:34] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64421.
+[23:39:34] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[23:39:34] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[23:39:34] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:39:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64421.
+[23:39:37] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:64422] logged in with entity id 35 at ([world]-274.7068970177969, 74.0, 85.23395801431487)
+[23:39:43] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
+[23:39:43] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
+[23:39:47] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64423.
+[23:39:47] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[23:39:47] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[23:39:47] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:39:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64423.
+[23:39:53] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64424.
+[23:39:53] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[23:39:53] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[23:39:53] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:39:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64424.
+[23:40:29] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64425.
+[23:40:29] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[23:40:29] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[23:40:29] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:40:35] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
+[23:40:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64425.
+[23:41:19] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64448.
+[23:41:19] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[23:41:19] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[23:41:19] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:41:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64448.
+[23:43:23] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64453.
+[23:43:23] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[23:43:23] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[23:43:23] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:43:28] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
+[23:43:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64453.
+[23:45:47] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64457.
+[23:45:47] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[23:45:47] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[23:45:47] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:45:50] [Netty Server IO #1/INFO]: <David_LluisVidal> bot tnt[m
+[23:45:50] [Server thread/INFO]: Ejecutando comando: TNTBot[m
+[23:45:50] [Server thread/INFO]: ­TNT placed![m
+[23:45:52] [Server thread/INFO]: ­TNT activated![m
+[23:46:00] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
+[23:46:00] [Server thread/INFO]: David_LluisVidal left the game
+[23:46:03] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64457.
+[23:49:34] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64477.
+[23:49:34] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[23:49:34] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[23:49:34] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:49:36] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:64478] logged in with entity id 55 at ([world]-291.5688294056336, 73.0, 73.58117414380867)
+[23:49:41] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
+[23:49:41] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
+[23:49:46] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
+[23:49:46] [Server thread/INFO]: Ejecutando comando: TNTBot[m
+[23:49:46] [Server thread/INFO]: ­TNT placed![m
+[23:49:48] [Server thread/INFO]: ­TNT activated![m
+[23:50:04] [Netty Server IO #3/INFO]: <David_LluisVidal> bot totuga[m
+[23:50:04] [Server thread/INFO]: <Bot>: Comand unknown: totuga[m
+[23:50:04] [Server thread/INFO]: <Bot>: M¢dulo no encontrado: None.[m
+[23:50:10] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tortuga[m
+[23:50:10] [Server thread/INFO]: Ejecutando comando: TortugaBot[m
+[23:50:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64477.
+[23:50:53] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
+[23:50:53] [Server thread/INFO]: David_LluisVidal left the game
+[23:56:57] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64495.
+[23:56:57] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[23:56:57] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[23:56:57] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:57:00] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:64496] logged in with entity id 82 at ([world]-298.1907431192963, 72.0, 87.88371752528269)
+[23:57:08] [Netty Server IO #5/INFO]: <David_LluisVidal> bot tortuga[m
+[23:57:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64495.
+[23:57:45] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64499.
+[23:57:45] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[23:57:45] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[23:57:45] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[23:57:48] [Netty Server IO #5/INFO]: <David_LluisVidal> bot tortuga[m
+[23:57:48] [Server thread/INFO]: Ejecutando comando: TortugaBot[m
+[23:58:03] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
+[23:58:03] [Server thread/INFO]: David_LluisVidal left the game
