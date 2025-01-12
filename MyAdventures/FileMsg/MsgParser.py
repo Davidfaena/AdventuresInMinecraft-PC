@@ -28,6 +28,5 @@ def message_Parser(mc, msg):
 
     if content.startswith("bot "):
         comand = content[4:]
-        mc.postToChat(comand)
         apply_command(mc, comand)
 

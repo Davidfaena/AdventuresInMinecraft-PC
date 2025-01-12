@@ -15,7 +15,7 @@ def apply_command(mc, comand):
         modulo = importlib.import_module(modulo_nombre)
 
         # Verifies if the module has a comun function name
-        if hasattr(modulo, "main"):  # It is assume that all the bots have the same function name
+        if hasattr(modulo, "main"):  # It is assumed that all the bots have the same function name
             comando_func = getattr(modulo, "main")
 
             if callable(comando_func): # Check if we can call that function
