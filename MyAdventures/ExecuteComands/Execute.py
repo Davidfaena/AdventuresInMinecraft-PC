@@ -1,5 +1,7 @@
 from MyAdventures.FileMsg.SelectBot import SelectBot
+from MyAdventures.Bots import *
 import importlib
+import os
 
 def ejecutar_comando(mc, comand):
     """

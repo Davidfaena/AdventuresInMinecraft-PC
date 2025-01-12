@@ -1,14 +1,19 @@
 from mcpi.minecraft import Minecraft
 from MyAdventures.FileMsg.MsgParser import listener, filtrar_mensajes
 
+#Server initialization
+# Path to .bat file
+#path_bat = r"D:\TAP_2025\AdventuresInMinecraft-PC\StartServer.bat"
 
+# Execute .bat file
+#res = subprocess.run([path_bat], shell=True)
 
-# Opnes a conection to the minecraft server
+# Conexión al servidor de Minecraft
 mc = Minecraft.create()
 
 
 # Initial message
 mc.postToChat("¡Active bot! write 'bot ajuda' to see all active bots.")
 
-# Proceeds to listen the chat log
+# Iniciar la escucha de comandos
 filtrar_mensajes(mc)

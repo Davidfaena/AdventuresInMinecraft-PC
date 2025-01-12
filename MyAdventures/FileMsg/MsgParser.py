@@ -13,7 +13,7 @@ def listener(mc):
         # Reducir la carga del bucle
         time.sleep(0.1)
 
-# Function that listen all the msg
+# Función para filtrar y procesar mensajes
 def filtrar_mensajes(mc):
 
     while True:
@@ -21,9 +21,12 @@ def filtrar_mensajes(mc):
         list(map(lambda mensaje: message_Parser(mc, mensaje), mensajes))
         time.sleep(0.1)
 
-# Functional programing: proces the chat messages
+# Aplicar programación funcional: Hacer que los mensajes de chat sean procesados
 def message_Parser(mc, msg):
-
+    """
+    Función pura que procesa los mensajes y ejecuta comandos.
+    """
+    autor = msg.entityId
     content = msg.message.lower()
 
     if content.startswith("bot "):
