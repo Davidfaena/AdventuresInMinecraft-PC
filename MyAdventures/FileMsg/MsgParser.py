@@ -1,4 +1,4 @@
-from MyAdventures.ExecuteComands.Execute import ejecutar_comando
+from MyAdventures.ExecuteComands.Execute import apply_command
 import time
 
 
@@ -14,7 +14,7 @@ def listener(mc):
         time.sleep(0.1)
 
 # Function that listen all the msg
-def filtrar_mensajes(mc):
+def filter_message(mc):
 
     while True:
         mensajes = mc.events.pollChatPosts()
@@ -28,5 +28,6 @@ def message_Parser(mc, msg):
 
     if content.startswith("bot "):
         comand = content[4:]
-        ejecutar_comando(mc, comand)
+        mc.postToChat(comand)
+        apply_command(mc, comand)
 

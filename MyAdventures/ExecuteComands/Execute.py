@@ -1,41 +1,41 @@
 from MyAdventures.FileMsg.SelectBot import SelectBot
 import importlib
 
-def ejecutar_comando(mc, comand):
-    """
-    Ejecuta el comando correspondiente de manera reflexiva.
-    """
-    bot = SelectBot(mc, comand)  # Seleccionar el nombre del bot (archivo Python)
+
+# Reflective function that let us call the differents bots
+def apply_command(mc, comand):
+
+    bot = SelectBot(mc, comand)  # Name of the bot to be called
 
     try:
-        # Construir el nombre completo del módulo
+        # Complet name from the module
         modulo_nombre = f"MyAdventures.Bots.{bot}"
 
-        # Importar dinámicamente el módulo correspondiente
+        # Dinamic import of the module
         modulo = importlib.import_module(modulo_nombre)
 
-        # Verificar si el módulo tiene una función principal (puedes ajustar el nombre de la función)
-        if hasattr(modulo, "main"):  # Se asume que cada archivo tiene una función `main`
+        # Verifies if the module has a comun function name
+        if hasattr(modulo, "main"):  # It is assume that all the bots have the same function name
             comando_func = getattr(modulo, "main")
 
-            if callable(comando_func):
-                mc.postToChat(f"Ejecutando comando: {bot}")
-                return comando_func(mc)  # Ejecutar la función `main` del módulo
+            if callable(comando_func): # Check if we can call that function
+                mc.postToChat(f"Executing comand: {bot}")
+                return comando_func(mc)  # Executes the main function of the bot
             else:
-                mc.postToChat(f"<Bot>: La función `main` no es ejecutable en {bot}.")
+                mc.postToChat(f"<Bot>: Main function isn't executable {bot}.")
         else:
-            mc.postToChat(f"<Bot>: El módulo {bot} no tiene una función `main`.")
+            mc.postToChat(f"<Bot>: Module {bot} dosent have a main function.")
 
     except ModuleNotFoundError:
-        mc.postToChat(f"<Bot>: Módulo no encontrado: {bot}.")
+        mc.postToChat(f"<Bot>: Módulo not found: {bot}.")
     except Exception as e:
-        mc.postToChat(f"<Bot>: Error al ejecutar {bot}: {str(e)}")
+        mc.postToChat(f"<Bot>: Error while executing {bot}: {str(e)}")
 
     return None
 
 
-# Función de dispatcher para ejecutar comandos de manera reflexiva
-def ejecutar_comando2(mc, comand):
+# Reflective function that let us call the differents bots
+def ejecutar_coman2(mc, comand):
 
     bot = SelectBot(mc, comand)
 
