@@ -3,7 +3,7 @@ from MyAdventures.FileMsg.MsgParser import listener, filtrar_mensajes
 
 
 
-# Opnes a conection to the minecraft server
+# Opens a conection to the minecraft server
 mc = Minecraft.create()
 
 
