@@ -1,57 +1,88 @@
-[17:06:00] [Server thread/INFO]: Starting minecraft server version 1.12
-[17:06:00] [Server thread/INFO]: Loading properties
-[17:06:00] [Server thread/INFO]: Default game type: CREATIVE
-[17:06:00] [Server thread/INFO]: Generating keypair
-[17:06:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:06:00] [Server thread/INFO]: Using default channel type
-[17:06:01] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
-[17:06:01] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
-[17:06:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:06:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:06:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:06:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:06:01] [Server thread/INFO]: Preparing level "world"
-[17:06:01] [Server thread/INFO]: Preparing start region for level 0 (Seed: -9035584645726326890)
-[17:06:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -9035584645726326890)
-[17:06:03] [Server thread/INFO]: Preparing start region for level 2 (Seed: -9035584645726326890)
-[17:06:03] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
-[17:06:03] [Server thread/INFO]: [RaspberryJuice] Using port 4711
-[17:06:03] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
-[17:06:03] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
-[17:06:03] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[17:06:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:06:03] [Server thread/INFO]: Done (1,846s)! For help, type "help" or "?"
-[17:06:36] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:57807] logged in with entity id 43 at ([world]-336.4274521214395, 73.0, 111.70497478731853)
-[17:06:44] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
-[17:06:44] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
-[17:06:49] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
-[17:06:49] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57810.
-[17:06:49] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
-[17:06:49] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[17:06:56] [Server thread/INFO]: David_LluisVidal issued server command: /tnt
-[17:07:05] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
-[17:07:05] [Server thread/INFO]: David_LluisVidal left the game
-[17:07:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57810.
-[17:07:25] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57812.
-[17:07:25] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
-[17:07:25] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
-[17:07:25] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[17:07:30] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:57815] logged in with entity id 53 at ([world]-334.87879640897876, 72.0, 109.79121860159617)
-[17:07:34] [Server thread/INFO]: David_LluisVidal issued server command: /bot tnt
-[17:07:41] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57812.
-[17:08:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57821.
-[17:08:01] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
-[17:08:01] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
-[17:08:01] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
-[17:08:07] [Netty Server IO #4/INFO]: <David_LluisVidal> bot tnt[m
-[17:08:07] [Server thread/INFO]: tnt[m
-[17:08:07] [Server thread/INFO]: Executing comand: TNTBot[m
-[17:08:07] [Server thread/INFO]: ­TNT placed![m
-[17:08:09] [Server thread/INFO]: ­TNT activated![m
-[17:08:50] [Netty Server IO #4/INFO]: <David_LluisVidal> bot insultame[m
-[17:08:50] [Server thread/INFO]: insultame[m
-[17:08:50] [Server thread/INFO]: Executing comand: InsultBot[m
-[17:08:50] [Server thread/INFO]: <Bot>: ­Tu casa parece hecha por un enderman ciego![m
-[17:10:01] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
-[17:10:01] [Server thread/INFO]: David_LluisVidal left the game
-[17:10:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57821.
+[19:53:54] [Server thread/INFO]: Loading properties
+[19:53:54] [Server thread/INFO]: Default game type: CREATIVE
+[19:53:54] [Server thread/INFO]: Generating keypair
+[19:53:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:53:55] [Server thread/INFO]: Using default channel type
+[19:53:56] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[19:53:56] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[19:53:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:53:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:53:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:53:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:53:56] [Server thread/INFO]: Preparing level "world"
+[19:53:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: -9035584645726326890)
+[19:53:58] [Server thread/INFO]: Preparing spawn area: 41%
+[19:53:59] [Server thread/INFO]: Preparing start region for level 1 (Seed: -9035584645726326890)
+[19:54:00] [Server thread/INFO]: Preparing spawn area: 80%
+[19:54:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: -9035584645726326890)
+[19:54:00] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[19:54:00] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[19:54:00] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[19:54:00] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[19:54:00] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[19:54:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:54:00] [Server thread/INFO]: Done (3,955s)! For help, type "help" or "?"
+[19:57:53] [Server thread/INFO]: David_LluisVidal[/127.0.0.1:63449] logged in with entity id 43 at ([world]-337.4939304284034, 71.0, 119.24065515862938)
+[19:58:26] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[19:58:26] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:63452.
+[19:58:26] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[19:58:26] [Server thread/INFO]: ­Active bot! write 'bot ajuda' to see all active bots.[m
+[20:01:02] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
+[20:01:02] [Server thread/INFO]: Executing comand: TNTBot[m
+[20:01:02] [Server thread/INFO]: ­TNT placed![m
+[20:01:04] [Server thread/INFO]: ­TNT activated![m
+[20:01:23] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
+[20:01:23] [Server thread/INFO]: Executing comand: TNTBot[m
+[20:01:23] [Server thread/INFO]: ­TNT placed![m
+[20:01:25] [Server thread/INFO]: ­TNT activated![m
+[20:01:54] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
+[20:01:54] [Server thread/INFO]: Executing comand: TNTBot[m
+[20:01:54] [Server thread/INFO]: ­TNT placed![m
+[20:01:56] [Server thread/INFO]: ­TNT activated![m
+[20:02:11] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
+[20:02:11] [Server thread/INFO]: Executing comand: TNTBot[m
+[20:02:11] [Server thread/INFO]: ­TNT placed![m
+[20:02:13] [Server thread/INFO]: ­TNT activated![m
+[20:02:24] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt[m
+[20:02:24] [Server thread/INFO]: Executing comand: TNTBot[m
+[20:02:24] [Server thread/INFO]: ­TNT placed![m
+[20:02:26] [Server thread/INFO]: ­TNT activated![m
+[20:04:57] [Netty Server IO #3/INFO]: <David_LluisVidal> bot insultame[m
+[20:04:57] [Server thread/INFO]: Executing comand: InsultBot[m
+[20:04:57] [Server thread/INFO]: <Bot>: ­Tu casa parece hecha por un enderman ciego![m
+[20:05:45] [Netty Server IO #3/INFO]: <David_LluisVidal> bot ayuda[m
+[20:05:45] [Server thread/INFO]: <Bot>: Comand unknown: ayuda[m
+[20:05:45] [Server thread/INFO]: <Bot>: M¢dulo not found: None.[m
+[20:05:50] [Netty Server IO #3/INFO]: <David_LluisVidal> bot ajuda[m
+[20:05:50] [Server thread/INFO]: Executing comand: AjudaBot[m
+[20:05:50] [Server thread/INFO]: <Bot>: Avaliable commads:[m
+[20:05:50] [Server thread/INFO]:   - bot tnt: Place and activate a tnt near the player.[m
+[20:05:50] [Server thread/INFO]:   - bot insultame: Gets a random slur from the bot.[m
+[20:05:50] [Server thread/INFO]:   - bot tortuga: Draws a square using the internal class turtle.[m
+[20:05:50] [Server thread/INFO]:   - bot ayuda: Show this list of commands.[m
+[20:07:37] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tortuga[m
+[20:07:38] [Server thread/INFO]: Executing comand: TortugaBot[m
+[20:07:56] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tortuga[m
+[20:07:56] [Server thread/INFO]: Executing comand: TortugaBot[m
+[20:08:13] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tortuga[m
+[20:08:13] [Server thread/INFO]: Executing comand: TortugaBot[m
+[20:08:30] [Server thread/INFO]: David_LluisVidal issued server command: /time set day
+[20:08:30] [Server thread/INFO]: [David_LluisVidal: Set the time to 1000]
+[20:08:39] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tortuga[m
+[20:08:40] [Server thread/INFO]: Executing comand: TortugaBot[m
+[20:11:30] [Netty Server IO #3/INFO]: <David_LluisVidal> bot algo[m
+[20:11:30] [Server thread/INFO]: <Bot>: Comand unknown: algo[m
+[20:11:30] [Server thread/INFO]: <Bot>: M¢dulo not found: None.[m
+[20:12:16] [Netty Server IO #3/INFO]: <David_LluisVidal> bot error[m
+[20:12:16] [Server thread/INFO]: <Bot>: Comand unknown: error[m
+[20:12:16] [Server thread/INFO]: <Bot>: M¢dulo not found: None.[m
+[20:14:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2080ms behind, skipping 41 tick(s)
+[20:14:54] [Netty Server IO #3/INFO]: <David_LluisVidal> bot tnt 3434[m
+[20:14:54] [Server thread/INFO]: <Bot>: Comand unknown: tnt 3434[m
+[20:14:54] [Server thread/INFO]: <Bot>: M¢dulo not found: None.[m
+[20:15:24] [Netty Server IO #3/INFO]: <David_LluisVidal> bot ajuda tnt tortuga insultam[m
+[20:15:24] [Server thread/INFO]: <Bot>: Comand unknown: ajuda tnt tortuga insultam[m
+[20:15:24] [Server thread/INFO]: <Bot>: M¢dulo not found: None.[m
+[20:16:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:63452.
+[20:16:21] [Server thread/INFO]: David_LluisVidal lost connection: Disconnected
+[20:16:21] [Server thread/INFO]: David_LluisVidal left the game

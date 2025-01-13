@@ -50,7 +50,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "swampland": "2025-01-12 16:48:10 +0100",
-      "roofed_forest": "2025-01-10 16:43:30 +0100"
+      "roofed_forest": "2025-01-10 16:43:30 +0100",
+      "river": "2025-01-13 20:08:06 +0100"
     },
     "done": false
   }

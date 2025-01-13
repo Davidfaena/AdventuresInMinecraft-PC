@@ -3,7 +3,7 @@ def SelectBot(mc, comand):
     # Dictionary that contains the names and the bots
     comands = {
         "tnt": "TNTBot",
-        "insultame": "InsultBot",
+        "insultam": "InsultBot",
         "ajuda": "AjudaBot",
         "tortuga": "TortugaBot"
     }
